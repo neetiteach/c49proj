@@ -1,0 +1,23 @@
+h1{
+    font-style: italic;
+    text-align: center;
+    color:moccasin;
+}
+.head{
+    background-color:orangered;
+}
+.menu{
+   display:flex;
+
+   justify-items: baseline;
+   justify-content:space-evenly;
+   
+   color:orange;
+}
+body{
+    background-color:lightyellow;
+}
+p,ol,ul{
+    font-family: sans-serif;
+    font-weight: bold;
+}
